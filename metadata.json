@@ -1,0 +1,6 @@
+{
+  "name": "Ethno Mart",
+  "description": "Ethno Mart - Empowering global artisans and cultural heritage through authentic community hubs, marketplace, events, and heritage delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
